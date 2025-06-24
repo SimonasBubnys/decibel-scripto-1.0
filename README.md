@@ -2,6 +2,8 @@
 
 **Created by Cinnect Media**
 
+![DecibelScripto Logo](static/logo.png)
+
 A modern web application for downloading YouTube videos and playlists as high-quality WAV audio files. Built with Svelte frontend and Node.js backend, featuring real-time progress updates, batch downloads, and comprehensive error handling.
 
 ## ✨ Features
